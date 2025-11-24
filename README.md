@@ -32,6 +32,14 @@
    <img align="center" alt="Italo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
    <img align="center" alt="Italo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
  </div>
+
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italopimentel/italopimentel/output/github-contribution-grid-cobrinha-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italopimentel/italopimentel/output/github-contribution-grid-cobrinha.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/italopimentel/italopimentel/output/github-contribution-grid-cobrinha.svg">
+  </picture>
+</div>
  
 ##
 Contatos 
